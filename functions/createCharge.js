@@ -1,4 +1,4 @@
-const stripe = require('stripe')(process.env.STRIPE_SECRET_KEY);
+const stripe = require('stripe')(process.env.sk_test_JXJWHOkaOLnTiIUytJvSo24000qTjMouf8);
 
 module.exports.handler = (event, context, callback) => {
   console.log('createCharge');
