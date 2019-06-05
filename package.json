@@ -1,5 +1,5 @@
 {
-  "name": "serverless-stripe-backend",
+  "name": "Checkout-backend",
   "version": "1.0.0",
   "description": "",
   "main": "handler.js",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yosriady/serverless-stripe-backend.git"
+    "url": "git+https://github.com/KarenZhou0/Checkout-backend.git"
   },
-  "author": "Yos Riady",
+  "author": "Karen Zhou",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/yosriady/serverless-stripe-backend/issues"
+    "url": "https://github.com/KarenZhou0/Checkout-backend/issues"
   },
-  "homepage": "https://github.com/yosriady/serverless-stripe-backend#readme",
+  "homepage": "https://github.com/KarenZhou0/Checkout-backend#readme",
   "devDependencies": {
     "eslint": "^3.19.0",
     "eslint-config-airbnb-base": "^11.1.3",
