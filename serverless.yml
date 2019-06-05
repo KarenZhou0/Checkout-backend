@@ -14,7 +14,7 @@ custom:
 # The `provider` block defines where your service will be deployed
 provider:
   name: aws
-  runtime: nodejs6.10
+  runtime: nodejs8.10
   stage: dev
   # profile: personal
   # region: ap-southeast-1
